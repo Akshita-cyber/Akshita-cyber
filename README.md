@@ -11,7 +11,7 @@ Currently, I'm focusing on improving my development skills and contributing to r
 
 Feel free to connect or reach out!
 
-📫 [Follow me on X](https://x.com/akshitaexe)
+📫 [Follow me on X](https://x.com/akshitaexe)<br>
 ✍️ [Read & follow me on Dev.to](https://dev.to/akshitaexe)
 
 _Thanks for stopping by! 🚀_
