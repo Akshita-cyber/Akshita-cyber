@@ -1,17 +1,30 @@
 ### Hi there, I'm Akshita 👋
 
-I'm a web enthusiast who loves building meaningful and functional applications. I enjoy exploring Java and JavaScript, and I'm always curious to learn how things work behind the scenes — whether it's frontend interfaces or backend logic.
+I am a passionate developer focusing on building backend applications and APIs using Node.js and Express.js.  
+Currently enhancing my skills in web development and software engineering.
 
-Currently, I'm focusing on improving my development skills and contributing to real-world projects. You'll often find me experimenting with ideas, working on code, or diving into documentation (and occasionally getting lost in a good debug session).
+---
 
-- 💻 Tech Stack: Java | JavaScript | HTML | CSS | Tailwind CSS | NodeJS
-- 🌱 Currently Learning: Web app development, design patterns, and clean coding
-- 🔍 Exploring: Open source and side projects
-- 🧠 Believer in: Learning by doing
+## 🔧 Technologies & Tools
 
-Feel free to connect or reach out!
+- Node.js  
+- Express.js  
+- JavaScript (ES6+)  
+- RESTful APIs  
+- Git & GitHub  
+- JSON File Handling  
+
+---
+
+## 🎯 Current Focus
+
+- Building efficient and maintainable REST APIs  
+- Improving backend architecture and project structure  
+- Learning databases integration (MongoDB / SQL)  
+- Writing clean, scalable code  
+
+---
 
 📫 [Follow me on X](https://x.com/akshitaexe)<br>
-✍️ [Read & follow me on Dev.to](https://dev.to/akshitaexe)
 
 _Thanks for stopping by! 🚀_
