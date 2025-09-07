@@ -25,6 +25,6 @@ Currently enhancing my skills in web development and software engineering.
 
 ---
 
-📫 [Follow me on X](https://x.com/Humaniuiuixe)<br>
+📫 [Follow me on X](https://x.com/Humaniuiuiexe)<br>
 
 _Thanks for stopping by! 🚀_
